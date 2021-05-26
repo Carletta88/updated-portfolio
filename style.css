@@ -1,5 +1,6 @@
 * {
     font-family: 'Bebas Neue', cursive;
+    font-size: larger;
 }
 body {
     background-image: url(./background.jpg);
@@ -12,5 +13,10 @@ header img {
 
 .callout {
     margin: 5%;
+    font-size: larger;
     
+}
+
+.card {
+    margin: 2%;
 }
