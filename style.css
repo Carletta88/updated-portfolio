@@ -1,0 +1,16 @@
+* {
+    font-family: 'Bebas Neue', cursive;
+}
+body {
+    background-image: url(./background.jpg);
+}
+
+header img {
+    float: right;
+    border-radius: 40%;
+}
+
+.callout {
+    margin: 5%;
+    
+}
