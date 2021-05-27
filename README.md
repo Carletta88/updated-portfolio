@@ -15,6 +15,12 @@
 
 * The colors and styling should be easily visible (not too bright or too dark)
 
+## The Finished Product Should Be Similar To The Following:
+
+---
+
+![portfolio](./Document.png)
+
 
 
 ## Refrence the following links:

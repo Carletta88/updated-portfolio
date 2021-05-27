@@ -11,6 +11,10 @@ header img {
     border-radius: 40%;
 }
 
+img:hover {
+    opacity: 0.5;
+}
+
 .callout {
     margin: 5%;
     font-size: larger;
